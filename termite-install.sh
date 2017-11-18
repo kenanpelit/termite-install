@@ -5,6 +5,7 @@ git clone https://github.com/thestinger/vte-ng.git
 sudo apt-get install -y \
 	g++ \
 	libgtk-3-dev \
+  libvte-2.91-dev \
 	gtk-doc-tools \
 	gnutls-bin \
 	valac \
